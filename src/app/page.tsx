@@ -130,7 +130,7 @@ export default function Home() {
                       M Sairi
                     </h3>
                     <p className='text-xs text-white font-sans font-medium mt-2 capitalize'>
-                      Putra Pertama keluarga Bapak Rusli & Ibu Misbah
+                      Putri Kedua keluarga Bapak Ardiansyah & Ibu Susanna Erlina
                     </p>
                   </div>
                   <div className='pb-16'>
