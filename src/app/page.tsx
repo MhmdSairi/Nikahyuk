@@ -195,12 +195,13 @@ export default function Home() {
                   <div className='py-1 flex justify-center items-start rounded-sm text-white space-x-2 place-self-start my-1'>
                     <MapPinHouse size={24} />
                     <h3 className='font-sans text-xs font-bold'>
-                      
+                      Gedung DMI Kutai Kartanegara, Jl. Patin, Timbau,
+                      Tenggarong
                     </h3>
                   </div>
 
                   <a
-                    href='#'
+                    href='https://maps.app.goo.gl/ud67CigoUVmpXLFt6'
                     target='_blank'
                     className='cursor-pointer group flex justify-center items-center rounded-sm text-white space-x-2 place-self-start mt-1'>
                     <Navigation
@@ -242,12 +243,13 @@ export default function Home() {
                   <div className='py-1 flex justify-center items-start rounded-sm text-white space-x-2 place-self-start my-1'>
                     <MapPinHouse size={24} />
                     <h3 className='font-sans text-xs font-bold'>
-                      
+                      Gedung De&apos; Bollo Jl. Tumanurung Raya, Kalegowa, Kec.
+                      Somba Opu, Kab. Gowa
                     </h3>
                   </div>
 
                   <a
-                    href='#'
+                    href='https://maps.app.goo.gl/3oBuxJWwRwBw22HXA?g_st=aw'
                     target='_blank'
                     className='cursor-pointer group flex justify-center items-center rounded-sm text-white space-x-2 place-self-start mt-1'>
                     <Navigation
@@ -274,9 +276,8 @@ export default function Home() {
                 Turut Mengundang
               </h3>
               <ul className='text-white font-sans font-light text-sm grid grid-cols-2 gap-3 text-center'>
-                
                 <li className='col-span-2'>
-                  <p>Suryadi, S.Pt. (Dg. Beta) & Aswinarti, S.Km.</p>
+                  <p></p>
                 </li>
               </ul>
             </div>
