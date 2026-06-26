@@ -52,7 +52,7 @@ Yth. Bapak/Ibu/Saudara/i
 
 Tanpa mengurangi rasa hormat, perkenankan kami mengundang Bapak/Ibu/Saudara/i, teman sekaligus sahabat, untuk menghadiri acara Pernikahan kami :
 
-*Mesias & Shawir*
+*Sairi & Diana*
 
 Berikut link undangan kami untuk info lengkap dari acara bisa kunjungi :
 https://nikahfix-pink.vercel.app/?to=${encodeURI(item.nama)}
@@ -66,7 +66,7 @@ Terima kasih banyak atas perhatiannya.
 Wassalamu'alaikum Wr. Wb
 
 Kami yang berbahagia
-*Mesias & Shawir*`)}`}
+*Sairi & Diana*`)}`}
                     target='_blank'>
                     <MessageCircleHeart />
                     Kirim WA
