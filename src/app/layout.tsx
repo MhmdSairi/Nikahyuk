@@ -16,8 +16,8 @@ const bebasNeue = Bebas_Neue({
 });
 
 export const metadata: Metadata = {
-  title: "NIKAHFIX | wedding of Mesias & Shawir",
-  description: "the wedding of Mesias & Shawir",
+  title: "NIKAHFIX | wedding of Sairi & Diana",
+  description: "the wedding of Sairi & Diana",
 };
 
 export default function RootLayout({

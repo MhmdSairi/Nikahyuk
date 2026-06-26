@@ -58,7 +58,7 @@ export default function Home() {
                   </h3>
                 </div>
                 <h3 className='text-white font-sans font-semibold text-xl mt-2'>
-                  Mesias & Shawir : Getting Married
+                  Sairi & Diana : Getting Married
                 </h3>
                 <CountDown />
                 <div className='flex space-x-2 mt-4 mb-2'>
@@ -77,7 +77,7 @@ export default function Home() {
                   />
                 </div>
                 <p className='text-sm text-white font-sans font-semibold'>
-                  Dalam takdir yang indah, Mesias dan Shawir akhirnya
+                  Dalam takdir yang indah, Sairi dan diana akhirnya
                   dipertemukan di waktu yang sempurna. Dengan hati yang telah
                   siap saling melengkapi, mereka memulai kisah cinta yang baru,
                   melangkah bersama menuju janji suci pernikahan
@@ -120,36 +120,34 @@ export default function Home() {
                     <div className='w-full aspect-[3/4] relative'>
                       <Image
                         src='/images/brides.jpg'
-                        alt='Mesias'
+                        alt='Sairi'
                         layout='fill'
                         objectFit='cover'
                         className='rounded-lg grayscale blur-[1px] hover:blur-0 hover:grayscale-0'
                       />
                     </div>
                     <h3 className='text-red-500 font-mono mt-2 tracking-wider'>
-                      Mesias Citra Dewi
+                      M Sairi
                     </h3>
                     <p className='text-xs text-white font-sans font-medium mt-2 capitalize'>
-                      putri kedua keluarga Bapak H. Liangto (Alm) & Ibu Hj.
-                      Rehana
+                      putri kedua keluarga Bapak Rusli & Ibu Misbah
                     </p>
                   </div>
                   <div className='pb-16'>
                     <div className='w-full aspect-[3/4] relative'>
                       <Image
                         src='/images/groom.jpg'
-                        alt='Shawir'
+                        alt='diana'
                         layout='fill'
                         objectFit='cover'
                         className='rounded-lg grayscale blur-[1px] hover:blur-0 hover:grayscale-0'
                       />
                     </div>
                     <h3 className='text-red-500 font-mono mt-2 tracking-wider'>
-                      Mushawiruddin Muhtar
+                      Azmira Nur Diana
                     </h3>
                     <p className='text-xs text-white font-sans font-medium mt-2 capitalize'>
-                      putra kedua keluarga Bapak Muh. Tahang (Alm) & Ibu Hj.
-                      Ruaena
+                      putra kedua keluarga Bapak  & Ibu 
                     </p>
                   </div>
                 </div>
@@ -172,7 +170,7 @@ export default function Home() {
                 <div className='w-full relative aspect-[12/10]'>
                   <Image
                     src='/images/akad.jpg'
-                    alt='Mesias'
+                    alt='Sairi'
                     layout='fill'
                     objectFit='cover'
                     className='rounded-lg grayscale'
@@ -220,7 +218,7 @@ export default function Home() {
                 <div className='w-full relative aspect-[12/10]'>
                   <Image
                     src='/images/photo4.jpg'
-                    alt='Mesias'
+                    alt='Sairi'
                     layout='fill'
                     objectFit='cover'
                     className='rounded-lg grayscale'
@@ -318,13 +316,13 @@ export default function Home() {
                 Terima kasih atas perhatian dan doa restu yang diberikan.
               </p>
               <p className='text-white font-mono text-3xl text-center mt-2'>
-                Mesias & Shawir
+                Sairi & Diana
               </p>
             </div>
 
             <div className='w-full flex flex-col md:px-4 my-12 py-4 rounded-md'>
               <p className='text-white font-sans font-medium text-sm text-center'>
-                Made With ❤️ by Mesias & Shawir
+                Made With ❤️ by Sairi & Diana
               </p>
             </div>
           </div>
