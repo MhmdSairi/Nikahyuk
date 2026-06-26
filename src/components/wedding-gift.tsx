@@ -89,10 +89,10 @@ const WeddingGift = () => {
                     </div>
                     <div className='my-10'>
                       <p className='font-sans text-sm font-semibold text-black'>
-                        1490006346268
+                        082151916181
                       </p>
                       <p className='font-sans text-sm font-semibold text-black'>
-                        a/n Mesias Citra Dewi
+                        a/n M Sairi
                       </p>
                     </div>
                     <div className='w-full flex justify-center gap-4 px-10 font-sans'>
@@ -101,7 +101,7 @@ const WeddingGift = () => {
                         onClick={() => {
                           const copy = async () => {
                             await navigator.clipboard.writeText(
-                              "1490006346268"
+                              "082151916181"
                             );
                             toast("Rekening Telah Disalin", {
                               duration: 1000,
@@ -144,10 +144,10 @@ const WeddingGift = () => {
                     </div>
                     <div className='my-10'>
                       <p className='font-sans text-sm font-semibold text-black'>
-                        0909958508
+                        083120489895
                       </p>
                       <p className='font-sans text-sm font-semibold text-black'>
-                        a/n Mushawiruddin Muhtar
+                        a/n Azmira Nur Diana
                       </p>
                     </div>
                     <div className='w-full flex justify-center gap-4 px-10 font-sans'>
@@ -155,7 +155,7 @@ const WeddingGift = () => {
                         className='flex space-x-2'
                         onClick={() => {
                           const copy = async () => {
-                            await navigator.clipboard.writeText("0909958508");
+                            await navigator.clipboard.writeText("083120489895");
                             toast("Rekening Telah Disalin", {
                               duration: 1000,
                             });

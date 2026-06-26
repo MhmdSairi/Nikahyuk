@@ -22,7 +22,7 @@ const CarouselBreaking = () => {
                 <CardContent className='flex aspect-square items-center justify-center relative'>
                   <Image
                     src={`/images/photo${index + 1}.jpg`}
-                    alt='Mesias'
+                    alt='Sairi'
                     layout='fill'
                     objectFit='cover'
                   />

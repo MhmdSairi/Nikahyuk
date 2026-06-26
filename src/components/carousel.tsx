@@ -18,7 +18,7 @@ const CarouselPhoto = () => {
               <div className='relative h-[85vh] w-full p-2'>
                 <Image
                   src={`/images/photo${index + 1}.jpg`}
-                  alt='Mesias&Shawir'
+                  alt='Sairi&Diana'
                   layout='fill'
                   objectFit='cover'
                   className='grayscale'
@@ -33,14 +33,14 @@ const CarouselPhoto = () => {
           <div className='relative h-6 aspect-[8/2]'>
             <Image
               src={`/nikahfix.webp`}
-              alt='Mesias&Shawir'
+              alt='Sairi&Diana'
               layout='fill'
               objectFit='center'
             />
           </div>
         </div>
         <h1 className='font-sans font-bold text-white text-2xl capitalize my-2'>
-          Mesias & Shawir
+          Sairi & Diana
         </h1>
         <div className='flex space-x-2 py-1 items-center'>
           <span className='py-1 px-2 bg-red-700 tracking-widest text-white font-mono rounded-md text-xs font-bold'>

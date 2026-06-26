@@ -54,7 +54,7 @@ const Cover = () => {
             <div className='relative h-12 aspect-[8/2]'>
               <Image
                 src={`/nikahfix.webp`}
-                alt='Mesias&Shawir'
+                alt='Sairi&Diana'
                 layout='fill'
                 objectFit='center'
               />
@@ -64,14 +64,14 @@ const Cover = () => {
                 THE WEDDING OF
               </h1>
               <h1 className='text-2xl font-mono text-red-500'>
-                MESIAS & SHAWIR
+                Sairi & Diana
               </h1>
             </div>
             <div className='py-8'>
               <div className='relative aspect-square w-40 bg-white rounded-lg'>
                 <Image
                   src='/images/photo1.jpg'
-                  alt='Mesias'
+                  alt='Sairi'
                   layout='fill'
                   objectFit='cover'
                   className='rounded-lg grayscale'
