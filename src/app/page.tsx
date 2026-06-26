@@ -130,7 +130,7 @@ export default function Home() {
                       M Sairi
                     </h3>
                     <p className='text-xs text-white font-sans font-medium mt-2 capitalize'>
-                      Putri Kedua keluarga Bapak Ardiansyah & Ibu Susanna Erlina
+                      Putra Pertama keluarga Bapak Rusli & Ibu Misbah
                     </p>
                   </div>
                   <div className='pb-16'>
@@ -147,7 +147,7 @@ export default function Home() {
                       Azmira Nur Diana
                     </h3>
                     <p className='text-xs text-white font-sans font-medium mt-2 capitalize'>
-                      putra kedua keluarga Bapak  & Ibu 
+                      Putri kedua keluarga Bapak Ardiansyah & Ibu Susanna Erlina
                     </p>
                   </div>
                 </div>
