@@ -13,9 +13,20 @@ export async function getdata() {
     });
 
     const count = await prisma.post.count();
-    return { success: true, data: data, count: count };
+
+    return {
+      success: true,
+      data: data,
+      count: count,
+    };
   } catch (error) {
-    return { success: false, data: error };
+    console.error(error);
+
+    return {
+      success: false,
+      data: [],
+      count: 0,
+    };
   }
 }
 
@@ -29,8 +40,16 @@ export async function storeData(data: z.infer<typeof formSchema>) {
       },
     });
 
-    return { success: true, data: input };
+    return {
+      success: true,
+      data: input,
+    };
   } catch (error) {
-    return { success: false, data: error };
+    console.error(error);
+
+    return {
+      success: false,
+      data: null,
+    };
   }
 }
