@@ -42,7 +42,14 @@ const Reservasi = () => {
     data: pesan,
   }: {
     data?: {
-      data: { id: string; nama: string; pesan: string; createdAt: string }[];
+      success: boolean;
+      data: {
+        id: string;
+        nama: string;
+        kehadiran: string;
+        pesan: string;
+        createdAt: Date;
+      }[];
       count: number;
     };
   } = useQuery({
@@ -51,6 +58,7 @@ const Reservasi = () => {
   });
 
   const queryClient = useQueryClient();
+
   const mutation = useMutation({
     mutationFn: storeData,
     onSuccess: (res) => {
